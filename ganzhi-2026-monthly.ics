@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ganzhi Calendar//Bingwu 2026//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:丙午年 · 流月干支
+X-WR-CALDESC:丙午年（立春至次年立春前）；北京时间交节
+ ；日干支按零点换日。
+X-WR-TIMEZONE:Asia/Shanghai
+X-APPLE-CALENDAR-COLOR:#FF9500
+BEGIN:VEVENT
+UID:bingwu-2026-month-20260204@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:庚寅月
+DESCRIPTION:丙午年 · 庚寅月开始\n节气：立春\n交节：2026-02
+ -04 04:02（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-03-05 21:59（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20260305@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:辛卯月
+DESCRIPTION:丙午年 · 辛卯月开始\n节气：惊蛰\n交节：2026-03
+ -05 21:59（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-04-05 02:40（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20260405@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:壬辰月
+DESCRIPTION:丙午年 · 壬辰月开始\n节气：清明\n交节：2026-04
+ -05 02:40（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-05-05 19:49（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20260505@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:癸巳月
+DESCRIPTION:丙午年 · 癸巳月开始\n节气：立夏\n交节：2026-05
+ -05 19:49（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-06-05 23:48（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20260605@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:甲午月
+DESCRIPTION:丙午年 · 甲午月开始\n节气：芒种\n交节：2026-06
+ -05 23:48（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-07-07 09:57（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20260707@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:乙未月
+DESCRIPTION:丙午年 · 乙未月开始\n节气：小暑\n交节：2026-07
+ -07 09:57（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-08-07 19:43（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20260807@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:丙申月
+DESCRIPTION:丙午年 · 丙申月开始\n节气：立秋\n交节：2026-08
+ -07 19:43（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-09-07 22:41（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20260907@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:丁酉月
+DESCRIPTION:丙午年 · 丁酉月开始\n节气：白露\n交节：2026-09
+ -07 22:41（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-10-08 14:29（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20261008@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:戊戌月
+DESCRIPTION:丙午年 · 戊戌月开始\n节气：寒露\n交节：2026-10
+ -08 14:29（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-11-07 17:52（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20261107@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:己亥月
+DESCRIPTION:丙午年 · 己亥月开始\n节气：立冬\n交节：2026-11
+ -07 17:52（北京时间，精确到分钟）\n本月到下一交节：202
+ 6-12-07 10:53（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20261207@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:庚子月
+DESCRIPTION:丙午年 · 庚子月开始\n节气：大雪\n交节：2026-12
+ -07 10:53（北京时间，精确到分钟）\n本月到下一交节：202
+ 7-01-05 22:10（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bingwu-2026-month-20270105@ganzhi.calendar
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:辛丑月
+DESCRIPTION:丙午年 · 辛丑月开始\n节气：小寒\n交节：2027-01
+ -05 22:10（北京时间，精确到分钟）\n本月到下一交节：202
+ 7-02-04 09:46（北京时间）\n以十二节划分流月，不按农历
+ 初一。全天事件标记交节所在日期，实际从上述时刻起
+ 换月。\n节气来源：日本国立天文台暦要項（日本标准时
+ 减一小时）。
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
